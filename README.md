@@ -9,7 +9,7 @@ NeckUp was founded during [Philly Startup Weekend 2018](http://communities.techs
 To do this, NeckUp app runs in the back in the background on the users' phone, dimming the screen whenever they hold the phone in bad posture, reminding them to hold the phone upright to reduce neck pain.
 
 *Illustration of the app purpose:*
-<img src="screenshots/neck_up_usage.jpg" alt="Usage" width="50%"/>
+<img src="https://raw.githubusercontent.com/ngojason9/Neck-Up/master/screenshots/neck_up_usage.png" alt="Usage" width="50%"/>
 
 The instructions below will get you a copy of the project on your local machine for development and testing purposes.
 
